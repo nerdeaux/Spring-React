@@ -1,0 +1,62 @@
+/* @keyframes fade {
+    from {opacity: 0;}
+    to {opacity: 1;}
+  }
+
+.count {
+    font-size: 10rem;
+    color:rgb(230, 149, 0);
+    font-weight: 500;
+}
+
+.flex-counter {
+    background-color: bisque;
+    margin: 4rem;
+    padding: 1.5rem;
+    border-radius: 3rem;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    animation-name: fade;
+    animation-duration: 4s;
+    animation-timing-function: ease;
+}
+
+.reset {
+    background-color: rgb(163, 2, 2);
+    color: white;
+}
+
+.reset:hover {
+    background-color: rgb(255, 255, 255);
+    color:  rgb(163, 2, 2);
+}
+
+h2 {
+    color: rgb(64, 33, 136);
+}
+
+#countButtons {
+    background-color: rgb(64, 33, 136);
+    margin: 0.3rem;
+    color: white;
+    width: 6rem;
+    height: 3rem;
+    font-size: 1.4rem;
+    border-radius: 1rem;
+    border-style: none;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 3px 10px 0 rgba(0,0,0,0.19);
+    outline-style: none;
+    transition-duration: 0.5s;
+}
+
+#countButtons:hover {
+    background-color: rgb(142, 124, 184);
+    color: rgb(255, 255, 255);
+    box-shadow: 0 6px 8px 0 rgba(0,0,0,0.24), 0 7px 10px 0 rgba(0,0,0,0.19);
+}
+
+ */
